@@ -1,4 +1,4 @@
-const API_BASE = "https://college-courses-exam-management-system.onrender.com";
+const API_BASE = "https://college-courses-exam-management-system.onrender.com/api";
 
 const studentsTable = document.getElementById("studentsTable");
 const message = document.getElementById("message");
